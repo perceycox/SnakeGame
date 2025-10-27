@@ -1,4 +1,4 @@
-namespace SnameGame
+namespace UltraSnakeGame
 {
     public partial class Form1 : Form
     {

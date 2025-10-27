@@ -1,4 +1,4 @@
-namespace SnameGame
+namespace UltraSnakeGame
 {
     internal static class Program
     {
